@@ -1,0 +1,4 @@
+ERROR:root:ERROR: No grades were entered, the list is empty
+ERROR:root:ERROR: No grades were entered, the list is empty
+ERROR:root:ERROR: No grades were entered, the list is empty
+ERROR:root:ERROR: No grades were entered, the list is empty
