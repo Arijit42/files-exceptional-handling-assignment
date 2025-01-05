@@ -1,0 +1,3 @@
+INFO:root:Program started. Processing department list.
+ERROR:root:prog encountering Error: list index out of range
+INFO:root:Program execution completed.
